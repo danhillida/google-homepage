@@ -1,0 +1,1 @@
+I believe that I am creating a clone of google.com.  This project will demonstate what I have taught myself over the course of the last couple of weeks.
